@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
-# Electrum-NMC - lightweight Namecoin client
-# Copyright (C) 2018 The Namecoin developers
+# Electrum-CHI - lightweight XAYA client
+# Copyright (C) 2019 The XAYA developers
 #
 # License for all components not part of Electrum-DOGE:
 #
